@@ -1,0 +1,31 @@
+Web 2 vs Web 3 is a fundamental shift in the *purpose of a corporation*.
+
+You may have heard of shareholder theory of value - that the purpose of a corporation is to maximize the share price for shareholders at any cost- including paying fines when profitable for polluting the planet, harming people, etc.
+
+This has been the dominant purpose of a corporation for 5+ decades.
+
+There's a new wave movement of "stakeholder" theory of value - that says, the purpose of a corporation is to maximize the value to stakeholders including shareholders, customers, employees, and communities they serve.
+
+In practice, this is lipstick on a pig. It doesn't fundamentally challenge the systems and structure that a corporation is born from and lives in.
+
+Web 3.0 offers us a new paradigm- community theory of value. One new example (airdropping tonight!) is Ethereum Name Service (ENS).
+
+You may have heard of Domain Name Service (DNS), which is the international standard for turning an IP Address into a human readable domain (e.g. 69 63 176 13 => Facebook's website).
+
+ENS is DNS but hosted via smart contracts on the Ethereum blockchain for turning Ethereum addresses (e.g. 0x34fm30rf843FJ3...) into human readable addresses (charlieDAO.eth).
+
+The group behind ENS had 0 venture capital investors. They generated revenue from selling their product and the product has matured tremendously over the last few years.
+
+They decided it was time to "go public" - but not in the traditional sense. They won't be on the NYSE or NASDAQ. They won't be owned by shareholders.
+
+Instead, they minted 100M $ENS tokens, saved 75% the treasury, and are giving 25% to the *community of past product users*.
+
+Among those users are people who've been nominated to be *delegates* voting in a republic style for changes to the protocol and the community will pledge their tokens to delegates to increase their voting power.
+
+Community owned, community controlled, community developed, and shareholders who've never even used the product have to buy from the community directly to get a piece of the action.
+
+Could you imagine? What if LinkedIn gave stock shares to those who posted & commented here? If those shares had real voting power over changes to the feed algorithm & revenue activities? If we could delegate our shares to the people we think are good stewards of LinkedIn?
+
+Instead, it's owned by people who don't even use it! 🤷
+
+Web 3 will devour Web 2. Because open source, collaborative, decentralized & consensual >>>> closed source, adversarial, centralized, and exploitive.
